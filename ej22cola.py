@@ -1,3 +1,4 @@
+#me copliqué innecesariamente jej
 from cola import Cola
 import os
 
